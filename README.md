@@ -28,7 +28,7 @@ However, my image turned out quite a bit smaller, 1.3GB vs 1.8GB
 ```
 ""
 Created on Sun Apr  9 16:16:04 2017
-@author: Alex Orion
+@author: github.com/Quantmatic
 """
 import json
 import docker
